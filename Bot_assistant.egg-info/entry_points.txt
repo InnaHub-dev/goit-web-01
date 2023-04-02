@@ -1,2 +1,0 @@
-[console_scripts]
-assist = bot_assistant.__main__:main
