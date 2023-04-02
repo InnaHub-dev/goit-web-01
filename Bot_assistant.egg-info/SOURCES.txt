@@ -1,0 +1,17 @@
+LICENCE
+README.md
+setup.py
+Bot_assistant.egg-info/PKG-INFO
+Bot_assistant.egg-info/SOURCES.txt
+Bot_assistant.egg-info/dependency_links.txt
+Bot_assistant.egg-info/entry_points.txt
+Bot_assistant.egg-info/requires.txt
+Bot_assistant.egg-info/top_level.txt
+bot_assistant/__init__.py
+bot_assistant/__main__.py
+bot_assistant/abstract_ui.py
+bot_assistant/addressbook.py
+bot_assistant/common.py
+bot_assistant/notepad.py
+bot_assistant/rename.py
+bot_assistant/sort.py

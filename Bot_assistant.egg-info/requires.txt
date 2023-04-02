@@ -1,0 +1,3 @@
+color-it
+prompt-toolkit
+prettytable

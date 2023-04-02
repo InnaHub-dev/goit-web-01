@@ -1,0 +1,3 @@
+bot_assistant
+dist
+env
